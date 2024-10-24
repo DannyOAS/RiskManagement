@@ -1,2 +1,3 @@
 # RiskManagement
-Risk Management Plan
+The purpose of this Cybersecurity Risk Management Plan is to establish a structured approach to managing risks within DHAEI’s IT infrastructure. As we continue to expand, including new branches and remote work setups, my goal is to safeguard our critical systems, data, and resources against threats like unauthorized access, data breaches, and system failures.
+By maintaining data integrity, I ensure that information remains accurate and consistent, preventing corruption or unauthorized modifications. Furthermore, aligning our practices with industry standards such as NIST SP 800-53 and ISO/IEC 27001, and adhering to regulations like PIPEDA, helps us stay compliant, mitigate legal risks, and build trust with clients and stakeholders.
